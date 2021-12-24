@@ -1,7 +1,11 @@
+import * as S from 'styles/pages/index.styles';
+
 export default function Home() {
   return (
-    <div>
-      <h1>Teste</h1>
-    </div>
+    <S.Container>
+      <S.Wrapper>
+        <h1>Olá Mundo!</h1>
+      </S.Wrapper>
+    </S.Container>
   );
 }
