@@ -15,7 +15,7 @@
 </div>
 
 <div align="center">
-  <img align="center" src="/public/iclodus.svg" alt="logo iClouds Sistemas Web" />
+  <img align="center" src="public/iclodus.svg" alt="logo iClouds Sistemas Web" />
 </div>
 
 <h1 align="center">Next.js Boilerplate iClouds</h1>
