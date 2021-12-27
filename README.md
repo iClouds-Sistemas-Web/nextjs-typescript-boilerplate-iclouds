@@ -67,8 +67,8 @@ Antes de começar, precisa-se ter instalado em sua máquina as seguintes ferrame
 ##### Usando o template:
 Siga os passos a seguir para iniciar o projeto utilizando o boilerplate. 
 
-##### Clone o repositório:
-```
+##### Criar projeto:
+```bash
   yarn create next-app -e https://github.com/iClouds-Sistemas-Web/boilerplate
 ```
 ##### Acesse a pasta do projeto no terminal/cmd:
