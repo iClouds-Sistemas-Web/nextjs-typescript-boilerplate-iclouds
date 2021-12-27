@@ -65,12 +65,9 @@ Antes de começar, precisa-se ter instalado em sua máquina as seguintes ferrame
 [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/), [yarn](https://yarnpkg.com/) ou [npm](https://www.npmjs.com/package/npm).
 
 ##### Usando o template:
-
-Clique no botão <b>Use this template</b>
-Adicione o <i>nome do novo projeto</i>, a <i>descrição</i> e clique em <b>Create repository from template</b>.
+Siga os passos a seguir para iniciar o projeto utilizando o boilerplate. 
 
 ##### Clone o repositório:
-
 ```
   yarn create next-app -e https://github.com/iClouds-Sistemas-Web/boilerplate
 ```
