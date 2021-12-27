@@ -5,5 +5,3 @@
   yarn eslint src --fix
 
 - PRETTIER:
-
-Aula: 18
