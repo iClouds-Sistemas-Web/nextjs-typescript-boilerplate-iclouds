@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/static/v1?label=Husky&message=7.0.4&color=#4cb5f1%3CCOLOR%3E&style=plastic%3CSTYLE%3E&logo=react%3CLOGO%3E" />
 </div>
 
-<h1 align="center">Next.js Boilerplate iClouds</h1>
+<h1 align="center">iClouds - Boilerplate em NextJS</h1>
 
 <p align="center">
  <a href="#tecnologias">Tecnologias</a> •
