@@ -14,11 +14,7 @@
   <img src="https://img.shields.io/static/v1?label=Husky&message=7.0.4&color=#4cb5f1%3CCOLOR%3E&style=plastic%3CSTYLE%3E&logo=react%3CLOGO%3E" />
 </div>
 
-<div align="center">
-  <img align="center" src="/public/iclodus.svg" alt="logo iClouds Sistemas Web" />
-</div>
-
-<h1 align="center">Next.js Boilerplate iClouds</h1>
+<h1 align="center">iClouds - Boilerplate em NextJS</h1>
 
 <p align="center">
  <a href="#tecnologias">Tecnologias</a> •
@@ -78,13 +74,10 @@ Antes de começar, precisa-se ter instalado em sua máquina as seguintes ferrame
 [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/), [yarn](https://yarnpkg.com/) ou [npm](https://www.npmjs.com/package/npm).
 
 ##### Usando o template:
+Siga os passos a seguir para iniciar o projeto utilizando o boilerplate. 
 
-Clique no botão <b>Use this template</b>
-Adicione o <i>nome do novo projeto</i>, a <i>descrição</i> e clique em <b>Create repository from template</b>.
-
-##### Clone o repositório:
-
-```
+##### Criar projeto:
+```bash
   yarn create next-app -e https://github.com/iClouds-Sistemas-Web/boilerplate
 ```
 ##### Acesse a pasta do projeto no terminal/cmd:
