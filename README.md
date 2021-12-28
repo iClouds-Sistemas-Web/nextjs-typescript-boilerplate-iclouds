@@ -61,8 +61,8 @@ src/
 |-- hooks/        # Contém todos os hooks do projeto.
 |-- pages/        # Todas as páginas do projeto estão dentro dessa pasta.
 |-- services/     # Contém as configurações das APIs.
-|-- interfaces/   # Contém todos os arquivos relacionados a padronização de estilos do projeto.
-|-- types/        # Contém a tipagem dos components do projeto.
+|-- styles/       # Contém todos os arquivos relacionados a padronização de estilos do projeto.
+|-- interfaces/        # Contém a tipagem dos components do projeto.
 ```
 
 ---
