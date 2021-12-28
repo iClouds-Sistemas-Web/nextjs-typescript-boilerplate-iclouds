@@ -54,10 +54,19 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ### Arquitetura
 ```shell
 src/
-|-- components/ # Contém os components reutilizáveis do projeto.
-|-- function/ # funções globais, que podem ser reutilizadas.
-|-- pages/ # Todas as páginas do projeto estão dentro dessa pasta.
-|-- styles/ # Contém todos os arquivos relacionados a padronização de estilos do projeto.
+|-- components/   # Contém os components reutilizáveis do projeto.
+|--- buttons/     # Contém os botões do projeto.
+|--- cards/       # Contém os cards do projeto.
+|--- inputs/      # Contém os inputs do projeto.
+|--- sections/    # Contém todas as sections do projeto.
+|---- home/       # Contém as seções da home.
+|--- SEO/         # Contém o SEO do projeto.
+|-- functions/    # Funções globais, que podem ser reutilizadas.
+|-- hooks/        # Contém todos os hooks do projeto.
+|-- pages/        # Todas as páginas do projeto estão dentro dessa pasta.
+|-- services/     # Contém as configurações das APIs.
+|-- styles/       # Contém todos os arquivos relacionados a padronização de estilos do projeto.
+|-- types/        # Contém a tipagem dos components do projeto.
 ```
 
 ---
