@@ -1,3 +1,1 @@
-export function Teste() {
-  console.log('Olá');
-}
+export { SEO } from 'components/SEO';

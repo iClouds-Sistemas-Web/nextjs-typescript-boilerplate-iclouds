@@ -61,7 +61,7 @@ src/
 |-- hooks/        # Contém todos os hooks do projeto.
 |-- pages/        # Todas as páginas do projeto estão dentro dessa pasta.
 |-- services/     # Contém as configurações das APIs.
-|-- styles/       # Contém todos os arquivos relacionados a padronização de estilos do projeto.
+|-- interfaces/   # Contém todos os arquivos relacionados a padronização de estilos do projeto.
 |-- types/        # Contém a tipagem dos components do projeto.
 ```
 
@@ -74,7 +74,7 @@ Antes de começar, precisa-se ter instalado em sua máquina as seguintes ferrame
 [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/), [yarn](https://yarnpkg.com/) ou [npm](https://www.npmjs.com/package/npm).
 
 ##### Usando o template:
-Siga os passos a seguir para iniciar o projeto utilizando o boilerplate. 
+Siga os passos a seguir para iniciar o projeto utilizando o boilerplate.
 
 ##### Criar projeto:
 ```bash
