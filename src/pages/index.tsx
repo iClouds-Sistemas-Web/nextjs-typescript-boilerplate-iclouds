@@ -1,4 +1,5 @@
 import { SEO } from 'components';
+
 import * as S from 'styles/pages/index.styles';
 
 export default function Home() {
