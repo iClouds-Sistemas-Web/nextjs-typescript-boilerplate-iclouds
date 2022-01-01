@@ -79,7 +79,7 @@ Siga os passos a seguir para iniciar o projeto utilizando o boilerplate.
 
 ##### Criar projeto:
 ```bash
-  yarn create next-app -e https://github.com/iClouds-Sistemas-Web/boilerplate
+  yarn create next-app -e https://github.com/iClouds-Sistemas-Web/nextjs-typescript-boilerplate-iclouds
 ```
 ##### Acesse a pasta do projeto no terminal/cmd:
 ```bash
