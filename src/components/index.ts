@@ -1,1 +1,1 @@
-export { SEO } from 'components/SEO';
+export { Meta } from 'components/Meta';
