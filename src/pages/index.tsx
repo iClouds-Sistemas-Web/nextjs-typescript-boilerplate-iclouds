@@ -1,11 +1,16 @@
-import { SEO } from 'components';
+import { Meta } from 'components';
 
 import * as S from 'styles/pages/index.styles';
+
+const meta = {
+  title: 'LOCALHOST',
+  description: 'Teste',
+};
 
 export default function Home() {
   return (
     <S.Container>
-      <SEO title="Teste" description="Teste de SEO!" />
+      <Meta meta={meta} />
 
       <S.Wrapper>
         <h1>Olá Mundo!</h1>

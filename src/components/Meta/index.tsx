@@ -1,8 +1,8 @@
 import Head from 'next/head';
 
-import { IMeta } from 'interfaces/meta';
+import { IMetaProps } from 'interfaces/meta';
 
-export function Meta({ meta }: IMeta) {
+export function Meta({ meta }: IMetaProps) {
   return (
     <Head>
       <title>{meta.title}</title>
